@@ -7,8 +7,19 @@ This repository contains my homework for codecore.
 Clone the project!
 
 
+
 ## Extra stuff
 
 - Thing
 - Food
 - Stuff
+
+### License
+
+MIT license
+
+
+## Author
+
+Ankita
+>>>>>>> mult_function
